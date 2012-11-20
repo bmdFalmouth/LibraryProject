@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WIN8WSD1213</Machine>
+    <WindowsUser>student</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>935C690F475D97494B067BAEC12DC04AE785A5280F3AC1BD1EB6EBF7CF43ECBC</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>3583ca55-5b1d-4f1d-a3e5-29ceca06de0b_1.0.0.0_neutral__7ttgvzcbjmtt0</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>3583ca55-5b1d-4f1d-a3e5-29ceca06de0b_7ttgvzcbjmtt0!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>3583ca55-5b1d-4f1d-a3e5-29ceca06de0b</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=student</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-20T19:48:21.192</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\bin\Debug\LibraryProject.App.exe">
+      <PackagePath>LibraryProject.App.exe</PackagePath>
+      <Modified>2012-11-20T23:14:28.778</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\bin\Debug\LibraryProject.App.pdb">
+      <PackagePath>LibraryProject.App.pdb</PackagePath>
+      <Modified>2012-11-20T23:14:28.747</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\packages\Callisto.1.2.5\lib\winrt45\Callisto.dll">
+      <PackagePath>Callisto.dll</PackagePath>
+      <Modified>2012-11-19T21:13:43.279</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\packages\FileHelpers.2.0.0.0\lib\FileHelpers.dll">
+      <PackagePath>FileHelpers.dll</PackagePath>
+      <Modified>2012-11-13T23:09:07.113</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\packages\FileHelpers.2.0.0.0\lib\FileHelpers.ExcelStorage.dll">
+      <PackagePath>FileHelpers.ExcelStorage.dll</PackagePath>
+      <Modified>2012-11-13T23:09:07.122</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\packages\FileHelpers.2.0.0.0\lib\FileHelpers.xml">
+      <PackagePath>FileHelpers.xml</PackagePath>
+      <Modified>2012-11-13T23:09:07.170</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\packages\FileHelpers.2.0.0.0\lib\FileHelpers.ExcelStorage.xml">
+      <PackagePath>FileHelpers.ExcelStorage.xml</PackagePath>
+      <Modified>2012-11-13T23:09:07.124</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-19T10:17:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-19T10:11:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-19T10:23:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-19T10:12:51.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\Assets\MockData.txt">
+      <PackagePath>Assets\MockData.txt</PackagePath>
+      <Modified>2012-11-15T00:10:09.901</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2012-11-06T22:43:45.586</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\sqlite3.dll">
+      <PackagePath>sqlite3.dll</PackagePath>
+      <Modified>2012-11-06T23:15:26.103</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-11-12T23:00:57.727</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\bin\Debug\Pages\BookDetails.xaml">
+      <PackagePath>Pages\BookDetails.xaml</PackagePath>
+      <Modified>2012-11-20T23:02:32.924</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-11-20T12:48:04.410</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-11-20T12:59:21.613</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\bin\Debug\Pages\ItemDetail.xaml">
+      <PackagePath>Pages\ItemDetail.xaml</PackagePath>
+      <Modified>2012-11-19T23:28:08.531</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\bin\Debug\Pages\NoItemSelected.xaml">
+      <PackagePath>Pages\NoItemSelected.xaml</PackagePath>
+      <Modified>2012-11-17T23:33:20.787</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\bin\Debug\Pages\Test.xaml">
+      <PackagePath>Pages\Test.xaml</PackagePath>
+      <Modified>2012-11-20T23:02:32.252</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\bin\Debug\Resources\GCULibraryResourceDictionary.xaml">
+      <PackagePath>Resources\GCULibraryResourceDictionary.xaml</PackagePath>
+      <Modified>2012-11-20T12:42:32.140</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\packages\Callisto.1.2.5\lib\winrt45\Callisto\themes\Generic.xaml">
+      <PackagePath>Callisto\themes\Generic.xaml</PackagePath>
+      <Modified>2012-11-19T21:13:43.298</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-11-20T19:48:17.478</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

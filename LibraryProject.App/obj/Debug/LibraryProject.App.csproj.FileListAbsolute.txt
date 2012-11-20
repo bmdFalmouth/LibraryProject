@@ -1,0 +1,204 @@
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App\LibraryProject.App\bin\Debug\LibraryProject.App.exe
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App\LibraryProject.App\bin\Debug\LibraryProject.App.pdb
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App\LibraryProject.App\bin\Debug\resources.pri
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App\LibraryProject.App\bin\Debug\AppxManifest.xml
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App\LibraryProject.App\bin\Debug\LibraryProject.App.build.appxrecipe
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App\LibraryProject.App\obj\Debug\App.g.i.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App\LibraryProject.App\obj\Debug\App.g.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App\LibraryProject.App\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App\LibraryProject.App\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App\LibraryProject.App\obj\Debug\MainPage.g.i.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App\LibraryProject.App\obj\Debug\MainPage.g.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App\LibraryProject.App\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App\LibraryProject.App\obj\Debug\App.xaml
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App\LibraryProject.App\obj\Debug\Common\StandardStyles.xaml
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App\LibraryProject.App\obj\Debug\MainPage.xaml
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App\LibraryProject.App\obj\Debug\LibraryProject.App.exe
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App\LibraryProject.App\obj\Debug\LibraryProject.App.pdb
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App\LibraryProject.App\obj\Debug\priconfig.xml.intermediate
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App\LibraryProject.App\obj\Debug\layout.resfiles.intermediate
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App\LibraryProject.App\obj\Debug\resources.resfiles.intermediate
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App\LibraryProject.App\obj\Debug\pri.resfiles.intermediate
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App\LibraryProject.App\obj\Debug\priconfig.xml
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App\LibraryProject.App\obj\Debug\layout.resfiles
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App\LibraryProject.App\obj\Debug\resources.resfiles
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App\LibraryProject.App\obj\Debug\pri.resfiles
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App\LibraryProject.App\obj\Debug\LanguageQualifiers.txt
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App\LibraryProject.App\obj\Debug\ProjectArchitectures.txt
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App\LibraryProject.App\obj\Debug\LibraryProject.App.csproj.GenerateResource.Cache
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App\LibraryProject.App\obj\Debug\Pages\BookDetails.g.i.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App\LibraryProject.App\obj\Debug\Pages\BookDetails.g.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App\LibraryProject.App\obj\Debug\Pages\BooksList.g.i.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App\LibraryProject.App\obj\Debug\Pages\BooksList.g.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App\LibraryProject.App\obj\Debug\Pages\SearchBooks.g.i.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App\LibraryProject.App\obj\Debug\Pages\SearchBooks.g.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App\LibraryProject.App\obj\Debug\Pages\BookDetails.xaml
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App\LibraryProject.App\obj\Debug\Pages\BooksList.xaml
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App\LibraryProject.App\obj\Debug\Pages\SearchBooks.xaml
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App\LibraryProject.App\obj\Debug\Resources\GCULibraryResourceDictionary.g.i.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App\LibraryProject.App\obj\Debug\Resources\GCULibraryResourceDictionary.g.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App\LibraryProject.App\obj\Debug\Resources\GCULibraryResourceDictionary.xaml
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App\LibraryProject.App\bin\Debug\FileHelpers.dll
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App\LibraryProject.App\bin\Debug\FileHelpers.ExcelStorage.dll
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App\LibraryProject.App\bin\Debug\FileHelpers.xml
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App\LibraryProject.App\bin\Debug\FileHelpers.ExcelStorage.xml
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App\LibraryProject.App\obj\Debug\LibraryProject.App.csprojResolveAssemblyReference.cache
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App\LibraryProject.App\obj\Debug\Pages\NoItemSelected.g.i.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App\LibraryProject.App\obj\Debug\Pages\NoItemSelected.g.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App\LibraryProject.App\obj\Debug\Pages\NoItemSelected.xaml
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App\LibraryProject.App\obj\Debug\Pages\ItemDetail.g.i.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App\LibraryProject.App\obj\Debug\Pages\ItemDetail.g.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App\LibraryProject.App\obj\Debug\Pages\ItemDetail.xaml
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\bin\Debug\LibraryProject.App.exe
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\bin\Debug\LibraryProject.App.pdb
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\bin\Debug\resources.pri
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\bin\Debug\AppxManifest.xml
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\bin\Debug\LibraryProject.App.build.appxrecipe
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\bin\Debug\FileHelpers.dll
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\bin\Debug\FileHelpers.ExcelStorage.dll
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\bin\Debug\FileHelpers.xml
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\bin\Debug\FileHelpers.ExcelStorage.xml
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\obj\Debug\LibraryProject.App.csprojResolveAssemblyReference.cache
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\obj\Debug\App.g.i.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\obj\Debug\App.g.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\obj\Debug\Pages\BookDetails.g.i.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\obj\Debug\Pages\BookDetails.g.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\obj\Debug\Pages\BooksList.g.i.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\obj\Debug\Pages\BooksList.g.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\obj\Debug\MainPage.g.i.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\obj\Debug\MainPage.g.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\obj\Debug\Pages\ItemDetail.g.i.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\obj\Debug\Pages\ItemDetail.g.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\obj\Debug\Pages\NoItemSelected.g.i.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\obj\Debug\Pages\NoItemSelected.g.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\obj\Debug\Pages\SearchBooks.g.i.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\obj\Debug\Pages\SearchBooks.g.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\obj\Debug\Resources\GCULibraryResourceDictionary.g.i.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\obj\Debug\Resources\GCULibraryResourceDictionary.g.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\obj\Debug\App.xaml
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\obj\Debug\Pages\BookDetails.xaml
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\obj\Debug\Pages\BooksList.xaml
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\obj\Debug\Common\StandardStyles.xaml
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\obj\Debug\MainPage.xaml
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\obj\Debug\Pages\ItemDetail.xaml
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\obj\Debug\Pages\NoItemSelected.xaml
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\obj\Debug\Pages\SearchBooks.xaml
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\obj\Debug\Resources\GCULibraryResourceDictionary.xaml
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\obj\Debug\LibraryProject.App.exe
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\obj\Debug\LibraryProject.App.pdb
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\obj\Debug\LibraryProject.App.csproj.GenerateResource.Cache
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\obj\Debug\priconfig.xml.intermediate
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\obj\Debug\layout.resfiles.intermediate
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\obj\Debug\resources.resfiles.intermediate
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\obj\Debug\pri.resfiles.intermediate
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\obj\Debug\priconfig.xml
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\obj\Debug\layout.resfiles
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\obj\Debug\resources.resfiles
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\obj\Debug\pri.resfiles
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\obj\Debug\LanguageQualifiers.txt
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\obj\Debug\ProjectArchitectures.txt
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\bin\Debug\Callisto.dll
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\bin\Debug\Callisto.pri
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v7\LibraryProject.App\obj\Debug\Callisto.pri.xml
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v8\LibraryProject.App\bin\Debug\LibraryProject.App.exe
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v8\LibraryProject.App\bin\Debug\LibraryProject.App.pdb
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v8\LibraryProject.App\bin\Debug\resources.pri
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v8\LibraryProject.App\bin\Debug\AppxManifest.xml
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v8\LibraryProject.App\bin\Debug\LibraryProject.App.build.appxrecipe
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v8\LibraryProject.App\bin\Debug\Callisto.dll
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v8\LibraryProject.App\bin\Debug\FileHelpers.dll
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v8\LibraryProject.App\bin\Debug\FileHelpers.ExcelStorage.dll
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v8\LibraryProject.App\bin\Debug\Callisto.pri
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v8\LibraryProject.App\bin\Debug\FileHelpers.xml
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v8\LibraryProject.App\bin\Debug\FileHelpers.ExcelStorage.xml
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v8\LibraryProject.App\obj\Debug\LibraryProject.App.csprojResolveAssemblyReference.cache
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v8\LibraryProject.App\obj\Debug\App.g.i.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v8\LibraryProject.App\obj\Debug\App.g.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v8\LibraryProject.App\obj\Debug\Pages\BookDetails.g.i.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v8\LibraryProject.App\obj\Debug\Pages\BookDetails.g.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v8\LibraryProject.App\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v8\LibraryProject.App\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v8\LibraryProject.App\obj\Debug\MainPage.g.i.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v8\LibraryProject.App\obj\Debug\MainPage.g.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v8\LibraryProject.App\obj\Debug\Pages\ItemDetail.g.i.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v8\LibraryProject.App\obj\Debug\Pages\ItemDetail.g.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v8\LibraryProject.App\obj\Debug\Pages\NoItemSelected.g.i.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v8\LibraryProject.App\obj\Debug\Pages\NoItemSelected.g.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v8\LibraryProject.App\obj\Debug\Resources\GCULibraryResourceDictionary.g.i.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v8\LibraryProject.App\obj\Debug\Resources\GCULibraryResourceDictionary.g.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v8\LibraryProject.App\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v8\LibraryProject.App\obj\Debug\App.xaml
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v8\LibraryProject.App\obj\Debug\Pages\BookDetails.xaml
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v8\LibraryProject.App\obj\Debug\Common\StandardStyles.xaml
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v8\LibraryProject.App\obj\Debug\MainPage.xaml
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v8\LibraryProject.App\obj\Debug\Pages\ItemDetail.xaml
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v8\LibraryProject.App\obj\Debug\Pages\NoItemSelected.xaml
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v8\LibraryProject.App\obj\Debug\Resources\GCULibraryResourceDictionary.xaml
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v8\LibraryProject.App\obj\Debug\LibraryProject.App.exe
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v8\LibraryProject.App\obj\Debug\LibraryProject.App.pdb
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v8\LibraryProject.App\obj\Debug\LibraryProject.App.csproj.GenerateResource.Cache
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v8\LibraryProject.App\obj\Debug\priconfig.xml.intermediate
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v8\LibraryProject.App\obj\Debug\layout.resfiles.intermediate
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v8\LibraryProject.App\obj\Debug\resources.resfiles.intermediate
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v8\LibraryProject.App\obj\Debug\pri.resfiles.intermediate
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v8\LibraryProject.App\obj\Debug\priconfig.xml
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v8\LibraryProject.App\obj\Debug\layout.resfiles
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v8\LibraryProject.App\obj\Debug\resources.resfiles
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v8\LibraryProject.App\obj\Debug\pri.resfiles
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v8\LibraryProject.App\obj\Debug\LanguageQualifiers.txt
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v8\LibraryProject.App\obj\Debug\Callisto.pri.xml
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v8\LibraryProject.App\obj\Debug\ProjectArchitectures.txt
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\bin\Debug\LibraryProject.App.exe
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\bin\Debug\LibraryProject.App.pdb
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\bin\Debug\resources.pri
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\bin\Debug\AppxManifest.xml
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\bin\Debug\LibraryProject.App.build.appxrecipe
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\bin\Debug\Callisto.dll
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\bin\Debug\FileHelpers.dll
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\bin\Debug\FileHelpers.ExcelStorage.dll
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\bin\Debug\Callisto.pri
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\bin\Debug\FileHelpers.xml
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\bin\Debug\FileHelpers.ExcelStorage.xml
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\obj\Debug\LibraryProject.App.csprojResolveAssemblyReference.cache
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\obj\Debug\App.g.i.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\obj\Debug\App.g.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\obj\Debug\Pages\BookDetails.g.i.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\obj\Debug\Pages\BookDetails.g.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\obj\Debug\MainPage.g.i.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\obj\Debug\MainPage.g.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\obj\Debug\Pages\ItemDetail.g.i.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\obj\Debug\Pages\ItemDetail.g.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\obj\Debug\Pages\NoItemSelected.g.i.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\obj\Debug\Pages\NoItemSelected.g.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\obj\Debug\Resources\GCULibraryResourceDictionary.g.i.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\obj\Debug\Resources\GCULibraryResourceDictionary.g.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\obj\Debug\App.xaml
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\obj\Debug\Pages\BookDetails.xaml
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\obj\Debug\Common\StandardStyles.xaml
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\obj\Debug\MainPage.xaml
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\obj\Debug\Pages\ItemDetail.xaml
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\obj\Debug\Pages\NoItemSelected.xaml
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\obj\Debug\Resources\GCULibraryResourceDictionary.xaml
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\obj\Debug\LibraryProject.App.exe
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\obj\Debug\LibraryProject.App.pdb
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\obj\Debug\LibraryProject.App.csproj.GenerateResource.Cache
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\obj\Debug\priconfig.xml.intermediate
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\obj\Debug\layout.resfiles.intermediate
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\obj\Debug\resources.resfiles.intermediate
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\obj\Debug\pri.resfiles.intermediate
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\obj\Debug\priconfig.xml
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\obj\Debug\layout.resfiles
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\obj\Debug\resources.resfiles
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\obj\Debug\pri.resfiles
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\obj\Debug\LanguageQualifiers.txt
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\obj\Debug\Callisto.pri.xml
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\obj\Debug\ProjectArchitectures.txt
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\obj\Debug\Pages\Test.g.i.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\obj\Debug\Pages\Test.g.cs
+C:\Users\student\Dropbox\CU .NET course\NET FOUNDATION 1\LibraryProject.App v9\LibraryProject.App\obj\Debug\Pages\Test.xaml

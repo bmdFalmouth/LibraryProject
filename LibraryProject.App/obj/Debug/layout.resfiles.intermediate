@@ -1,0 +1,15 @@
+Assets\Logo.png
+Assets\MockData.txt
+Assets\SmallLogo.png
+Assets\SplashScreen.png
+Assets\StoreLogo.png
+App.xaml
+Common\StandardStyles.xaml
+MainPage.xaml
+Pages\BookDetails.xaml
+Pages\ItemDetail.xaml
+Pages\NoItemSelected.xaml
+Pages\Test.xaml
+Resources\GCULibraryResourceDictionary.xaml
+Common\ReadMe.txt
+sqlite3.dll

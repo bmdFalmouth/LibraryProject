@@ -1,0 +1,12 @@
+1000809,Introduction to C#,Paul R,Programming C# Software Development,Introduces the C# programming Language
+2000780,Databases For Dummies,McBennet P,Database SQL,Beginner book on Database Development
+4555509,Psychology of the Mind,Britton J,Psychology Mind Brain,Examines the Human brain from a Pyschological point of view
+5092802,The History of Music,Quiq S,Music History,History of music from Iron Age to Computer Age
+7000000,Beginning Games Programming,Dawson M,Games Programming C#,Introduction to Games Programming using C#
+5677001,Shaders for Games Programmers and Artists,Chappel R, Games Shaders Artists,Explains Programmable Shaders to Artist and Programmers
+5973937,Programming Mircosoft .NET,Prosise J,C# VB Mircosft .NET Programming,Explains how to program for the .NET Framework
+2686157,Unreal Game Development,Okita A,Unreal Games Programming Development,Discusses how you can create a game using the Unreal Engine
+1678616,Racing The Beam,Montfort N,Games Atari History Development,Analyses some of the best games on the Atari 2600(VCS)
+6175179,Core Technologies and Algorithms,Daniels D,Games Development Algorithms Programming,Looks at some of the Algorithms used in Games Development
+6517917,Game Programming Gems 9,Various,Games Development Programming,A series articles from Industry Professionals about Games Development
+2526717,Beginning OpenGL Programming,Dawson M,Graphics OpenGL Games Programming,A book that examines OpenGL for graphics in Games
